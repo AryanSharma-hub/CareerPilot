@@ -1,0 +1,67 @@
+CareerPilot Career Knowledge Base
+
+ATS OPTIMIZATION
+
+An Applicant Tracking System (ATS) scans resumes for keywords, formatting, and relevance before a human ever sees them. Over 90% of large companies use ATS software.
+
+Key ATS optimization strategies:
+- Use standard section headers: Experience, Education, Skills, Certifications
+- Include keywords directly from the job description
+- Avoid tables, columns, headers/footers, and images
+- Use standard fonts like Arial, Calibri, or Times New Roman
+- Save as PDF or Word document as specified by the employer
+- Quantify achievements with numbers, percentages, and metrics
+
+ATS SCORE INTERPRETATION
+
+85-100: Excellent. Your resume is well-optimized and likely to pass ATS filters.
+70-84: Good. Minor improvements can boost your chances significantly.
+55-69: Moderate. Several gaps need to be addressed before applying.
+40-54: Weak. Major restructuring recommended before submitting.
+0-39: Poor. Consider a complete resume overhaul.
+
+SKILL DEVELOPMENT
+
+Identifying skill gaps is the first step to career growth. Once gaps are identified:
+1. Prioritize skills that appear in multiple job descriptions
+2. Use online platforms like Coursera, Udemy, LinkedIn Learning
+3. Pursue industry certifications relevant to your domain
+4. Build portfolio projects that demonstrate new skills
+5. Contribute to open source or community projects
+
+CAREER TRANSITIONS
+
+Transitioning to a new field requires:
+- Identifying transferable skills from your current role
+- Bridging skill gaps through targeted learning
+- Building a portfolio that demonstrates new capabilities
+- Networking with professionals in the target field
+- Tailoring your resume to highlight relevant experience
+
+INTERVIEW PREPARATION
+
+Technical interviews: Review fundamentals, practice coding/domain problems, study system design.
+Behavioral interviews: Use the STAR method (Situation, Task, Action, Result).
+Research the company thoroughly before the interview.
+Prepare questions to ask the interviewer about the role and team.
+
+RESUME WRITING BEST PRACTICES
+
+Strong resume bullet points:
+- Start with a powerful action verb
+- Include the task or project
+- Describe the approach or method
+- Quantify the result or impact
+
+Example: "Increased sales revenue by 35% in Q3 2023 by implementing a new CRM-based follow-up system across a 12-person team."
+
+DOMAIN-SPECIFIC CAREER ADVICE
+
+Software Engineering: Focus on system design, algorithms, and cloud technologies.
+Data Science: Build a portfolio of projects with real datasets. Learn SQL, Python, and visualization tools.
+Sales and Business: Quantify revenue, territory, and team metrics prominently.
+Fashion and Design: Portfolio quality matters as much as resume content.
+Finance: CFA, CPA certifications significantly boost competitiveness.
+Marketing: Showcase campaign results, ROI, and digital metrics.
+Human Resources: Highlight retention rates, recruitment metrics, and program outcomes.
+Operations and Logistics: Emphasize cost savings, efficiency improvements, and scale.
