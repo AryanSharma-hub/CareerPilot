@@ -16,15 +16,15 @@ import logging
 import chromadb
 from app.utils.llm_client import call_llm
 from app.services.match_engine import get_embedding_model
-
+from type import Any
 logger = logging.getLogger("careerpilot.rag_engine")
 
 # ──────────────────────────────────────────────
 # CHROMADB — in-process persistent client
 # ──────────────────────────────────────────────
 
-_chroma_client: chromadb.Client | None = None
-_collection = None
+_chroma_client: Any = None
+_collection: Any = None
 
 MIN_CHUNK_LENGTH = 40   # Skip chunks shorter than this
 RAG_RESULTS_COUNT = 3   # Number of docs to retrieve per query
