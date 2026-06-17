@@ -16,7 +16,7 @@ import logging
 import chromadb
 from app.utils.llm_client import call_llm
 from app.services.match_engine import get_embedding_model
-from type import Any
+from typing import Any
 logger = logging.getLogger("careerpilot.rag_engine")
 
 # ──────────────────────────────────────────────
