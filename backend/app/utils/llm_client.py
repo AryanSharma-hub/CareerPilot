@@ -37,8 +37,8 @@ def get_client():
     return _client
 
 
-PRIMARY_MODEL  = "google/gemini-flash-1.5"
-FALLBACK_MODEL = "google/gemini-flash-1.5-8b"
+PRIMARY_MODEL  = "google/gemini-2.5-flash"
+FALLBACK_MODEL = "google/gemini-flash-1.5"
 
 
 def repair_json(raw: str) -> str:
