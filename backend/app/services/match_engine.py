@@ -500,16 +500,19 @@ def calculate_job_match(
     # LLM inference is most valuable for technical_skills and soft_skills,
     # where responsibility/achievement → competency reasoning applies.
     # Tools are concrete named products — inference adds little value there.
+    logger.info("MATCH STEP A - starting skills matching")
     skills_result = tiered_semantic_match(
         resume_skills, jd_skills, resume_full_text, enable_llm_inference=True
     )
+    logger.info("MATCH STEP B - skills matching finished")
     tools_result = tiered_semantic_match(
         resume_tools, jd_tools, resume_full_text, enable_llm_inference=False
     )
+    logger.info("MATCH STEP C - tools matching finished")
     soft_result = tiered_semantic_match(
         resume_soft, jd_soft, resume_full_text, enable_llm_inference=True
     )
-
+    logger.info("MATCH STEP D - soft skills matching finished")
     # ── Per-category weighted scores ──
     # _category_score uses DIRECT/LLM_INFERRED/EMBEDDING_RELATED weights
     # and clusters near-duplicate missing items to avoid double-penalizing.
